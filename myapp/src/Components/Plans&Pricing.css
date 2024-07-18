@@ -1,0 +1,101 @@
+.main111{
+    width: 100%;
+    padding-top: 100px;
+}
+
+.sect122 {
+    padding: 100px 0px 190px 0px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://www.truckingassist.com/truckpriceimg_bac.webp);
+}
+
+.container{
+    max-width: 1280px;
+    margin: auto;
+    width: 100%;
+}
+
+.plan{
+    width: 100%;
+}
+
+.heads{
+    width: 100%;
+}
+
+.heads h2{
+    font-size: 3rem;
+    line-height: 1;
+    font-weight: 700;
+    color: white;
+}
+
+.percentage {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.payments{
+    width: 27%;
+    margin: 5px;
+}
+
+.upper-box {
+    width: 100%;
+    background-color: coral;
+    padding: 15px;
+    height: 80px;
+}
+
+.upper-box h3{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    font-weight: 600;  
+    margin: 0;
+    color: white;
+    text-align: left;
+}
+
+.upper-box2 {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.span-1 {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    font-weight: 900;
+}
+
+.span-2 {
+    font-size: 15px;
+    text-align: left;
+    display: flex;
+    align-content: flex-end;
+    flex-wrap: wrap;
+    padding-left: 5px;
+}
+
+.lower-box {
+    width: 100%;
+}
+
+.list {
+    width: 100%;
+    height: 30px;
+    min-width: 353px;
+    background-color: white;
+    border: 1px solid #efeded;
+    padding: 10px;
+    max-width: 353px;
+}
+
+.list li{
+    list-style-type: circle;
+    text-align: left;
+    font-size: 18px;
+}

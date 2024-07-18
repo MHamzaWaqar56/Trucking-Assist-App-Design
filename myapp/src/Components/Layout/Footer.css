@@ -1,0 +1,129 @@
+.main {
+    width: 100%;
+    padding: 40px 0px;
+    background-color: coral;
+}
+
+.main1 {
+    width: 100%;
+    display: flex;
+}
+
+.profitable {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 65px;
+}
+
+.profitable h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.a1{
+    padding: 15px 10px 15px 10px;
+    border-radius: 6px;
+    border: 1px solid black;
+    text-decoration: none;
+    background-color: black;
+    color: wheat;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.logo1 {
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.logo1 img {
+    width: 70%;
+}
+
+span{
+    color: white;
+    font-size: 15px;
+}
+
+.main-desk {
+    width: 100%;
+}
+
+.desk {
+    width: 100%;
+    margin: 10px;
+}
+
+.a2 img{
+    width: 30%;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    border: 1px solid transparent;
+}
+
+.affliate-btn{
+    width: 165px;
+    height: 45px;
+    background-color: #f76631;
+    font-size: 17px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+    border: 1px solid transparent;
+}
+
+.time {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0px 40px;
+}
+
+.email {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: end;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.phone {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.work {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.address {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.copy {
+    width: 100%;
+    display: flex;
+    align-items: end;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    flex-direction: column;
+}

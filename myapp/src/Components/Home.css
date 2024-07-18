@@ -1,0 +1,574 @@
+
+.main-home {
+    width: 100%;
+    padding-top: 100px;
+}
+
+
+.main-drive {
+    width: 100%;
+    display: flex;
+    padding: 50px 0px 20px 0px;
+}
+
+.main-drive1 {
+    width: 50%;
+    padding: 0px 10px 0px 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.truck-img {
+    width: 50%;
+}
+
+.truck-img img{
+    width: 100%;
+}
+
+.load-drive {
+    width: 100%;
+    display: flex;
+}
+
+span.spaan {
+    color: black;
+    margin: 0;
+    line-height: 1;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.paying-load p {
+    text-align: left;
+    padding: 3px 100px 3px 0px;
+    margin: 0;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+.paying-load {
+    width: 100%;
+}
+
+.dispatcher {
+    width: 100%;
+    display: flex;
+}
+
+.btn2{
+    width: 250px;
+    font-size: 15px;
+    border-radius: 5px;
+    font-weight: 600;
+    color: white;
+    height: 50px;
+    padding: 5px 10px;
+    background-color: coral;
+    border: 1px solid coral;
+}
+
+.btn2:hover{
+    background-color: rgb(252, 92, 34);
+}
+
+
+.sect1{
+    width: 100%;
+    padding: 30px 0px 30px 0px;
+}
+
+.money-div{
+    width: 100%;
+    display: flex;
+}
+
+.reefer{
+    width: 10%;
+}
+
+.reefer p {
+    line-height: 1;
+    font-size: 100px;
+    font-weight: 700;
+    margin: 0;
+    text-align: right;
+}
+
+.flatbed{
+    width: 35%;
+}
+
+.flatbed p {
+    line-height: 1;
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.equipment{
+    width: 15%;
+}
+
+.equipment p {
+    margin: 0;
+    line-height: 1.5;
+    padding: 15px 0px;
+    font-size: 18px;
+    text-align: left;
+}
+
+.empty{
+    width: 20%;
+}
+
+.sect2{
+    width: 100%;
+    display: flex;
+}
+
+.truck-driver{
+    width: 50%;
+}
+
+.truck-driver img{
+    width: 100%;
+}
+
+.road-boss{
+    width: 50%;
+    padding-top: 120px;
+}
+
+.hit{
+    width: 100%;
+}
+
+.hit h3{
+    font-size: 36px;
+    font-weight: 700;
+    margin: 0;
+    text-align: left;
+    padding-left: 75px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.upfront{
+    width: 100%;
+}
+
+.upfront p {
+    font-size: 18px;
+    padding: 10px 140px 10px 75px;
+    margin: 0;
+    text-align: left;
+}
+
+.inputt {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 15px;
+}
+
+.inputt input {
+    width: 100%;
+    height: 45px;
+    padding: 2px 2px 2px 15px;
+    font-size: 16px;
+    max-width: 20rem;
+    border: 1px solid coral;
+    border-radius: 5px;
+}
+
+.inputt input:focus{
+     outline: coral double 2px;
+     outline-offset: 2px;
+}
+
+.bttn {
+    width: 115px;
+    height: 50px;
+    background-color: coral;
+    font-size: 13px;
+    color: white;
+    border: 1px solid coral;
+    border-radius: 7px;
+    font-weight: 600;
+}
+
+
+.sect3{
+    width: 100%;
+    padding: 30px 0px 70px 0px ;
+}
+
+.consider{
+    width: 100%;
+}
+
+
+.phone-text{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: url(https://www.truckingassist.com/tru2.webp);
+    background-size: cover;
+    max-width: 1140px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    text-align: left;
+    height: 350px;
+    border-radius: 30px;
+    box-shadow: #ebebebd6 17px 27px 24px;
+    padding: 30px;
+}
+
+.phone-text h2{
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    color: white ; 
+}
+
+.sect4{
+    width: 100%;
+    background-color: #ffe9ee;
+}
+
+.container{
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+}
+
+.company{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.service{
+    width: 100%;
+    padding: 50px 0px 120px 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.service h2 {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    font-weight: 700;
+    padding: 50px 180px 10px 180px !important;
+    margin: 0;
+    color: coral;
+}
+
+.moving{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.moving h2 {
+    line-height: 1.75rem;
+    font-size: 1.125rem;
+    color: black;
+    font-weight: 400;
+    padding: 15px !important;
+}
+
+.transparency{
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.transparency img {
+    width: 55%;
+    margin-top: -130px;
+}
+
+
+.sect5{
+    width: 100%;
+}
+
+.sect6{
+    width: 100%;
+}
+
+.dedicated{
+    width: 100%;
+    display: flex;
+}
+
+.charge{
+    width: 50%;
+}
+
+.charge h2 {
+    font-size: 3rem;
+    line-height: 1;
+    text-align: left;
+    font-weight: 700;
+    padding: 10px 35px;
+    color: black;
+    margin: 0;
+}
+
+.charge p {
+    line-height: 1.75rem;
+    font-size: 1.25rem;
+    margin: 0;
+    padding: 20px 35px;
+    text-align: left;
+}
+
+.btnn {
+    width: 90%;
+    height: 50px;
+    background-color: coral;
+    font-size: 15px;
+    color: white;
+    border: 1px solid coral;
+    border-radius: 7px;
+    font-weight: 600;
+    margin-top: 25px;
+}
+
+.btnn:hover{
+    background-color: rgb(255, 106, 52);
+}
+
+.contracts{
+    width: 50%;
+    margin-top: -80px; 
+}
+
+.contracts img{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.sect7{
+    width: 100%;
+    background-color: coral;
+    padding: 70px 0px 50px 0px;
+}
+
+.wide{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.wide h2{
+    font-size: 3rem;
+    line-height: 1;
+    font-weight: 700;
+    color: white;
+    margin: 0;
+}
+
+.wide p{
+    line-height: 1.75rem;
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    padding: 10px 90px;
+}
+
+.btn-9{
+    width: 220px;
+    height: 50px;
+    background-color: rgb(254, 109, 57);
+    font-size: 13px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.btn-9:hover{
+    border: 1px solid coral;
+}
+
+
+.sect8 {
+    width: 100%;
+    background-repeat: no-repeat;
+    padding: 30px 0px;
+    background-size: cover;
+    background-image: url(https://www.truckingassist.com/background.webp);
+}
+
+.freight{
+    width: 100%;
+    padding: 45px 0px;
+}
+
+.dot{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.dot h2{
+    text-align: left;
+    padding: 0px 35px;
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    font-weight: 700;
+    color: white;
+}
+
+.dot p{
+    padding: 0px 35px;
+    line-height: 2rem;
+    font-size: 20px;
+    color: white;
+    text-align: left;
+}
+
+.sect9{
+    width: 100%;
+    background-color: #ffe9ee;
+}
+
+.haul{
+    width: 100%;
+    display: flex;
+    padding: 70px 0px;
+}
+
+.haul1{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 35px;
+}
+
+.haul1 h2{
+    color: coral;
+    font-size: 36px;
+    line-height: 2.5rem;
+    font-weight: 700;
+    text-align: left;
+    margin: 0;
+}
+
+.haul1 p{
+    text-align: left;
+    color: black;
+    line-height: 1.75rem;
+    font-size: 18px;
+}
+
+
+.select-opt{
+    width: 100%;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 600;
+    height: 3rem;
+    line-height: 1.25rem;
+    line-height: 2;
+    min-height: 3rem;
+    padding-left: 1rem;
+    padding-right: 2.5rem;
+    border: 1px solid coral;
+    margin: 15px 0px;
+}
+
+.select-opt1{
+    width: 95%;
+    border-radius: 5px;
+    font-weight: 600;
+    height: 42px;
+    line-height: 1.25rem;
+    padding: 2px 2px 2px 15px;
+    font-size: 13px;
+    color: coral;
+    border: 1px solid coral;
+    margin: 15px 0px;
+}
+
+.select-opt1::placeholder{
+    color: coral;
+}
+
+.select-opt:focus{
+    outline: coral double 2px;
+    outline-offset: 2px;
+}
+
+.select-opt1:focus{
+    outline: coral double 2px;
+    outline-offset: 2px;
+}
+
+.check-boxes{
+    width: 100%;
+}
+
+.type-truck{
+    color: black;
+    font-weight: 700;
+    font-size: 12px;
+    text-align: left;
+}
+
+.check-boxes-1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.dry-van{
+    text-align: left;
+    padding: 3px 0px;
+    font-size: 20px;
+}
+
+.dry-van1 {
+    accent-color: black;
+    width: 15px;
+    height: 15px;
+}
+
+.dry-van1[type="checkbox"]:before{
+    background-color: red;
+}
+
+
+.btnn1 {
+    width: 100%;
+    height: 50px;
+    background-color: coral;
+    font-size: 15px;
+    color: white;
+    border: 1px solid coral;
+    border-radius: 7px;
+    font-weight: 600;
+    margin-top: 25px;
+}
+
+.btnn1:hover{
+    background-color: rgb(255, 106, 52);
+}
+
+
+
+
+
+
+
+
+
+
+
